@@ -1,0 +1,22 @@
+ID,Name,Designation,Department,Salary,Email,Phone
+101,John Doe,Software Engineer,IT,75000,john.doe@example.com,123-456-7890
+102,Jane Smith,HR Manager,Human Resources,68000,jane.smith@example.com,234-567-8901
+103,Ravi Kumar,Data Analyst,Analytics,70000,ravi.kumar@example.com,345-678-9012
+104,Emily Zhang,UX Designer,Design,72000,emily.zhang@example.com,456-789-0123
+105,Kunal Mehta,DevOps Engineer,IT,76000,kunal.mehta@example.com,567-890-1234
+106,Ayesha Khan,Content Strategist,Marketing,65000,ayesha.khan@example.com,678-901-2345
+107,Sophia Roy,Business Analyst,Operations,69000,sophia.roy@example.com,789-012-3456
+108,Arjun Patel,QA Engineer,Quality Assurance,63000,arjun.patel@example.com,890-123-4567
+109,Maria Garcia,Recruiter,Human Resources,60000,maria.garcia@example.com,901-234-5678
+110,Liam Johnson,Sales Manager,Sales,80000,liam.johnson@example.com,012-345-6789
+111,Neha Sharma,Product Manager,Product,85000,neha.sharma@example.com,123-456-7890
+112,Carlos Lopez,Technical Writer,Documentation,58000,carlos.lopez@example.com,234-567-8901
+113,Himanshi Verma,Graphic Designer,Design,62000,himanshi.verma@example.com,345-678-9012
+114,David Miller,System Admin,IT,71000, david.miller@example.com,456-789-0123
+115,Tanvi Bansal,Social Media Manager,Marketing,64000,tanvi.bansal@example.com,567-890-1234
+116,Aniket Deshmukh,Financial Analyst,Finance,77000,aniket.deshmukh@example.com,678-901-2345
+117,Zara Sheikh,Legal Advisor,Legal,90000,zara.sheikh@example.com,789-012-3456
+118,Rohan Singh,Cloud Architect,IT,87000,rohan.singh@example.com,890-123-4567
+119,Ella Davis,Frontend Developer,IT,73000,ella.davis@example.com,901-234-5678
+120,Nikhil Raj,Backend Developer,IT,74000,nikhil.raj@example.com,012-345-6789
+121,Olivia Brown,Customer Support,Support,58000,olivia.brown@example.com,123-456-7890
